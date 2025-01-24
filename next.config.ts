@@ -3,7 +3,7 @@ export default {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'avatars.githubusercontent.com',
+        hostname: '*.googleusercontent.com',
       },
       {
         protocol: 'https',
